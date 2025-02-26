@@ -4,4 +4,4 @@ function printSeries(n){
     }
 }
 let n=125
-console.log(printSeries(n)) 
+console.log(printSeries(n))  
