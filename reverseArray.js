@@ -12,3 +12,10 @@ function reverseArray(arr){
 }
 let arr=[17,32,9,5,21,14]
 console.log(reverseArray(arr))
+
+function revArr(a){
+    return a.reverse()
+}
+let j=[17,32,9,5,21,14]
+console.log(revArr(j))
+
