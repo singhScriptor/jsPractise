@@ -9,5 +9,5 @@ function checkEquality(arr1,arr2){
     }
     return true
 }
-let arr1=[3,7,2,9,5],arr2=[3,7,2,9,6]
+let arr1=[3,7,2,9,6],arr2=[3,7,2,9,6]
 console.log(checkEquality(arr1,arr2))
