@@ -4,3 +4,4 @@ function findResult(marks){
 }
 let marks=52
 console.log(findResult(marks))
+
